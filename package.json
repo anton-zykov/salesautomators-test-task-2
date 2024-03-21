@@ -1,0 +1,23 @@
+{
+  "name": "salesautomators-test-task-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx n8n",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-zykov/salesautomators-test-task-2.git"
+  },
+  "author": "Anton Zykov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anton-zykov/salesautomators-test-task-2/issues"
+  },
+  "homepage": "https://github.com/anton-zykov/salesautomators-test-task-2#readme",
+  "dependencies": {
+    "n8n": "^1.31.2"
+  }
+}
